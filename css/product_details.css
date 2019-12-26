@@ -1,0 +1,7 @@
+.breadcrumb-item+.breadcrumb-item::before{
+    content: ">";
+}
+.price{
+    background-image:linear-gradient(to bottom,#f0f0f0,#e0e0e0);
+    box-shadow: 3px 3px 5px #e0e0e0;
+}
